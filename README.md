@@ -8,3 +8,8 @@
 RomanDelapovYurko/RomanDelapovYurko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+Я хочу создать приложение,которое может провети тест руфье
+в моем приложеии будет 3 окна
+в каждой странице будет описание всего того,что предстоить сделать пользователю
+в моем предложении будет три строки на второй странице,которые будут выполнять считатнльные функции
+на последней странице будет размещен результат
